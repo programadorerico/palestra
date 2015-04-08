@@ -18042,4 +18042,12 @@ object Form1: TForm1
     Height = 19
     Panels = <>
   end
+  object BitBtn1: TBitBtn
+    Left = 128
+    Top = 48
+    Width = 75
+    Height = 25
+    Caption = 'BitBtn1'
+    TabOrder = 1
+  end
 end

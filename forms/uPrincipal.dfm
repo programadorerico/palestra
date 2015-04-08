@@ -18045,7 +18045,7 @@ object Form1: TForm1
   object BitBtn1: TBitBtn
     Left = 128
     Top = 48
-    Width = 75
+    Width = 185
     Height = 25
     Caption = 'BitBtn1'
     TabOrder = 1
